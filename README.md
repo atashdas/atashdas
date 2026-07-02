@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atashdas
 - 👀 I’m interested in pretty much everything in IT but focusing on cloud infra, security & SAP! 
-- 💞️ I’m looking to collaborate on any of current interest areas or I have some background.
+- 💞️ I’m looking to collaborate on any of my current interest areas and/or on topics I have some background in.
 
 <!---
 atashdas/atashdas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
